@@ -1,0 +1,5 @@
+.env
+leads_extraidos.xlsx
+__pycache__/
+*.pyc
+\venv
