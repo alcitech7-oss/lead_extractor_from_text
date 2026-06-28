@@ -41,7 +41,7 @@ lead_extractor_from_text/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/alictech7-oss/lead_extractor_from_text.git
+    git clone https://github.com/alcitech7-oss/lead_extractor_from_text.git
     cd lead_extractor_from_text
     ```
 
@@ -75,6 +75,21 @@ lead_extractor_from_text/
 
 . You can customize the regex patterns and the SpaCy model in the main script to adapt to different text formats or languages.
 
+## ✅ Project Status
+
+**Project validated and tested in a clean environment** (cloned from scratch).
+
+- ✔️ Dependencies successfully installed
+- ✔️ Core features validated
+- ✔️ Structure and documentation reviewed
+- ✔️ Ready for use and demonstration
+
+## 📌 Development History
+
+- **Initial structure:** Lead extraction with SpaCy and regex
+- **Organization:** Modular code and documentation
+- **Documentation:** Updated README and added `requirements.txt`
+- **Final validation:** Project tested and validated from scratch
 🔮 Future improvements
 . Add support for more file formats (.docx, .pdf)
 
